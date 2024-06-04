@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Loading.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Main.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story2.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story3.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story4.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story5.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/Story6.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E01.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E02.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E03.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E05.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E04.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E06.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E07.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E08.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E09.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E10.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E11.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E12.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E13.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E14.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E15.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E16.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E17.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E18.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E19.unity
+  - enabled: 1
+    path: Assets/Amjad Assets/Scenes/S01_E20.unity

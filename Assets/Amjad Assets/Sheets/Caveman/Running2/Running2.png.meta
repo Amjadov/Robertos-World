@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 3e6b954af6edfca4e8a9d8f19ce12c3f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Running2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Running2_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

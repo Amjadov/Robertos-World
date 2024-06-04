@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: ce33870fe82f2e2478dd69e2f45ef771
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Rabbit Falling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Rabbit Falling_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

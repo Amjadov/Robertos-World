@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 61887d187fea58444a2a3432b830f82b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: BatHit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BatHit_32
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

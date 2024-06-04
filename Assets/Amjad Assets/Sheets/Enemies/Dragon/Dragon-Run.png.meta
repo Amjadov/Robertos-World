@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 2daa18c87f446c94eb3f2c8defabcbc7
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Dragon-Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1778
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1508
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1238
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Dragon-Run_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 968
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

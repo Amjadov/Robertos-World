@@ -1,0 +1,19 @@
+﻿
+using UnityEngine;
+using System.Collections;
+
+public class KillPlayer : MonoBehaviour
+{
+
+	void OnTriggerEnter2D (Collider2D other)
+	{
+		// If the player enters the trigger zone...
+		if(other.tag == "Player")
+		{
+			other.GetComponent<PlayerHealth>().KillPlayer();  
+		}
+
+	}
+
+
+}

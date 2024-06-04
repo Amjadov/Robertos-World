@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{7D0AFCEA-8D05-4080-E20A-A0DBB240913D}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Amjad Assets\Scripts\AI\JumpColliderScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\AI\SmoothFollow2.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Animate_Only.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Bull_Charge.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Bull_Rodeo.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Dragon_ShootFire.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Enemy.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\EnemyHealth.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Enemy_Spawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Enemy_Throw.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\FollowPlayer.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Kong_Runaway.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\Monkey_Jump.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Enemies\WitchFlyBy.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\BtnScripts\ExitBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\BtnScripts\LevelBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\BtnScripts\MenuTouchManager.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\BtnScripts\TouchBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\BtnScripts\TouchObjectScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\CameraFadeInOut.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\ConfigCamera.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\Credits\CreditsScroll.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\DontShowAdverts.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\Drag.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\Dragable.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\FPSDisplay.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\LoadingSC.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainHealthBar.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\ExitBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\GameTotalSore.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\MainMenu.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\MoreGamesBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\MusicBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\MusicMuter.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\NavBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\SkipBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\MainMenu\StoryBtn.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\PauseMenu\MainMenuBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\PauseMenu\PauseBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\PauseMenu\ReloadBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\PauseMenu\UNPauseBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\ReScaleGUI.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\ReScaleGUIText.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\ScrollScript_Auto.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\ScrollScript_Follow.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\SelectLevelMenu\InvincibleMode.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\SelectLevelMenu\LevelNoScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\SelectLevelMenu\LevelSelectBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\SelectLevelMenu\LevelStarScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\Speech Scripts\SpeechScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\Speech Scripts\SpeechSpawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\TutorialScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\YouWinMenu\YouWinFrameScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\YouWinMenu\YouWinNextLevelBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\YouWinMenu\YouWinReloadBtnScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GUI\YouWinMenu\YouWinStarScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\IO\LoadingScreen.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\IO\ObjectPoolerScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\IO\PlayerPrefs.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\InfiniteRunner\BullCollide.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\InfiniteRunner\EnableObject_Collider.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\InfiniteRunner\IncreaseSpeed.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\InfiniteRunner\RunIntoBull.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\ActingMain.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\Acting_SubL.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\Acting_SubR.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\ActivateTrigger.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\GameScore.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\Instantiate_V_Joystick_C.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Other Unused\Joystick_Script__C.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Apple.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\BackgroundBirdSpawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\BackgroundParallax.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\BackgroundPropSpawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Bomb.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\BombPickup.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Fireball.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\FollowerStart.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Gun.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\HealthPickup.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\LayBombs.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Pauser.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\PickupSpawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\PlayerControl_InfiniteRunner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Remover.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Rocket.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\RodeoFence.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\RollingRock.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Score.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\ScoreShadow.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\SetParticleSortingLayer.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Scripts\Spawner.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\ShowFrame.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\Story2.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\Story3.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\Story4.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\Story5.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\Story\Story6.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\BatHit.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\BombScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\CandyPickup.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\CrateScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\DoorButton.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\DoorScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\HiddenRocks.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\KillPlayer.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\LadderScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\PointCrateScript.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\PotionPickup.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\Saw.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\ScrollingGrassMotor.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\SpawnRock.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\SpikeMotor.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\TrampolineBounce.cs" />
+     <Compile Include="Assets\Amjad Assets\Scripts\props\VerticalElevator.cs" />
+     <Compile Include="Assets\CameraShake\PeriodicShake.cs" />
+     <Compile Include="Assets\CameraShake\PerlinShake.cs" />
+     <Compile Include="Assets\CameraShake\RandomShake.cs" />
+     <Compile Include="Assets\CameraShake\Sphere.cs" />
+     <Compile Include="Assets\CameraShake\Util_Easing.cs" />
+     <Compile Include="Assets\CameraShake\Util_Noise.cs" />
+     <Compile Include="Assets\GUITouchScroll\GUITouchScroll.cs" />
+     <Compile Include="Assets\StartApp\StartAppBackPlugin.cs" />
+     <Compile Include="Assets\StartApp\StartAppWrapper.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[Camera]\LerpToPlayer.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[Character]\Player.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[Interactive]\TileAligner.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[LevelEditor]\RowData.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[LevelEditor]\TileObjectRawData.cs" />
+     <Compile Include="Assets\TileBuilderPackage\[Scripts]\[Libraries]\ImageLibrary.cs" />
+     <None Include="Assets\Plugins\Android\AndroidManifest2.xml" />
+     <None Include="Assets\Amjad Assets\Materials\Cursor.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest - Copy_Admob.xml" />
+     <None Include="Assets\TileBuilderPackage\Resources\SaveData\_DefaultData.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest2 - Copy_StartApp.xml" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest - No Ads.xml" />
+     <None Include="Assets\Resources\StartAppData.txt" />
+     <None Include="Assets\TileBuilderPackage\Resources\SaveData\EditorWindowSettings.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest - Ads.xml" />
+     <None Include="Assets\Amjad Assets\Sounds\Audio\Music\AM-E7 Backing Track\Credits.txt" />
+     <None Include="Assets\Amjad Assets\Sounds\Audio\Music\Go Cart\Credits.txt" />
+     <None Include="Assets\Amjad Assets\Scripts\shaders\Mobile_Custom_Unlit.shader" />
+     <None Include="Assets\Amjad Assets\Sounds\Audio\Music\Spazzmatica Polka\Credits.txt" />
+     <None Include="Assets\TileBuilderPackage\Resources\SaveData\TagData.txt" />
+     <None Include="Assets\TileBuilderPackage\ChangeLog_TileBuilder.txt" />
+     <None Include="Assets\Amjad Assets\Sheets\Background\TilsetNew\Grass.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{B2B7B5F7-6820-CC19-0A88-156625C83E1E}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{360B6FC1-03CE-9B0C-A1A1-DA86707A350E}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

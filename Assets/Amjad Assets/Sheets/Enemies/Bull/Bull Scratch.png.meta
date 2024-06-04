@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 2e2c3470a3e0730439feec7368c22c5d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  - buildTarget: Web
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Bull Scratch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Bull Scratch_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

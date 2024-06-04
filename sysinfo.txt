@@ -1,0 +1,199 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601)
+  CPU: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz, count: 4
+  Physical RAM: 3419 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Intel(R) HD Graphics
+  VendorID: 8086
+  Driver: igdumd32.dll 8.15.10.2752
+  VRAM: 854 (via DXGI)
+
+OpenGL:
+  Version: 3.3.0 - Build 8.15.10.2752
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics
+  Driver: RDPDD, version 4456530.4456528.68.33554434
+  VRAM: 854 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_ARB_fragment_program_shadow GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_occlusion_query2 GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_sync GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_ARB_blend_func_extended GL_INTEL_performance_queries GL_ARB_copy_buffer GL_ARB_sampler_objects GL_NV_primitive_restart GL_ARB_seamless_cube_map GL_ARB_uniform_buffer_object GL_ARB_depth_clamp GL_ARB_vertex_array_bgra GL_ARB_shader_bit_encoding GL_ARB_draw_buffers_blend GL_ARB_geometry_shader4 GL_ARB_texture_query_lod GL_ARB_explicit_attrib_location GL_ARB_draw_elements_base_vertex GL_ARB_instanced_arrays GL_ARB_fragment_coord_conventions GL_EXT_gpu_program_parameters GL_ARB_texture_buffer_object_rgb32 GL_ARB_compatibility GL_ARB_texture_rgb10_a2ui GL_ARB_texture_multisample GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_timer_query GL_ARB_vertex_array_object GL_ARB_provoking_vertex 
+
+User locale: en-US
+System locale: en-US
+
+Running processes:
+taskhost.exe (1928)
+    path: C:\Windows\system32\taskhost.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Host Process for Windows Tasks
+    filever:  6.1.7601.18010
+    prodver:  6.1.7601.18010
+Dwm.exe (484)
+    path: C:\Windows\system32\Dwm.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Desktop Window Manager
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+Explorer.EXE (3940)
+    path: C:\Windows\Explorer.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Windows Explorer
+    filever:  6.1.7601.17567
+    prodver:  6.1.7601.17567
+igfxtray.exe (3644)
+    path: C:\Windows\System32\igfxtray.exe
+    company:  Intel Corporation
+    product:  Intel(R) Common User Interface
+    filedesc: igfxTray Module
+    filever:  8.15.10.2752
+    prodver:  8.15.10.2752
+hkcmd.exe (2364)
+    path: C:\Windows\System32\hkcmd.exe
+    company:  Intel Corporation
+    product:  Intel(R) Common User Interface
+    filedesc: hkcmd Module
+    filever:  8.15.10.2752
+    prodver:  8.15.10.2752
+igfxpers.exe (3732)
+    path: C:\Windows\System32\igfxpers.exe
+    company:  Intel Corporation
+    product:  Intel(R) Common User Interface
+    filedesc: persistence Module
+    filever:  8.15.10.2752
+    prodver:  8.15.10.2752
+UdaterUI.exe (2724)
+    path: C:\Program Files\McAfee\Common Framework\UdaterUI.exe
+    company:  McAfee, Inc.
+    product:  McAfee Agent
+    filedesc: Common User Interface
+    filever:  4.8.0.887
+    prodver:  4.8.0.887
+NetworkIndicator.exe (1064)
+    path: C:\Users\a.masoud\Downloads\Programs\network-activity-indicator\NetworkIndicator.exe
+    company:  ITSamples.com
+    product:  Network Activity Indicator for Windows 7
+    filedesc: Network Activity Indicator system tray utility
+    filever:  1.6.0.14
+    prodver:  1.6.0.14
+HiSuite.exe (3868)
+    path: C:\Program Files\HiSuite\HiSuite.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+TSVNCache.exe (2208)
+    path: C:\Program Files\TortoiseSVN\bin\TSVNCache.exe
+    company:  http://tortoisesvn.net
+    product:  TortoiseSVN
+    filedesc: TortoiseSVN status cache
+    filever:  1.8.4.24972
+    prodver:  1.8.4.24972
+McTray.exe (684)
+    path: C:\Program Files\McAfee\Common Framework\McTray.exe
+    company:  McAfee, Inc.
+    product:  McAfee System Tray
+    filedesc: McTray Application
+    filever:  2.1.1.1100
+    prodver:  0.0.0.0
+hwtransport.exe (4312)
+    path: C:\Users\a.masoud\AppData\Local\HiSuite\userdata\hwtools\hwtransport.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+firefox.exe (4940)
+    path: C:\Program Files\Mozilla Firefox\firefox.exe
+    company:  Mozilla Corporation
+    product:  Firefox
+    filedesc: Firefox
+    filever:  27.0.1.5156
+    prodver:  27.0.1.0
+OUTLOOK.EXE (6012)
+    path: C:\Program Files\Microsoft Office\Office14\OUTLOOK.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Outlook
+    filedesc: Microsoft Outlook
+    filever:  14.0.7113.5000
+    prodver:  14.0.7113.0
+EXCEL.EXE (4204)
+    path: C:\Program Files\Microsoft Office\Office14\EXCEL.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft Excel
+    filever:  14.0.7109.5000
+    prodver:  14.0.7109.0
+plugin-container.exe (3904)
+    path: C:\Program Files\Mozilla Firefox\plugin-container.exe
+    company:  Mozilla Corporation
+    product:  Firefox
+    filedesc: Plugin Container for Firefox
+    filever:  27.0.1.5156
+    prodver:  27.0.1.0
+explorer.exe (7228)
+    path: C:\Windows\explorer.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Windows Explorer
+    filever:  6.1.7601.17567
+    prodver:  6.1.7601.17567
+TeamViewer.exe (6648)
+    path: C:\Program Files\TeamViewer\Version9\TeamViewer.exe
+    company:  TeamViewer GmbH
+    product:  TeamViewer
+    filedesc: TeamViewer 9
+    filever:  9.0.26297.0
+    prodver:  9.0.0.0
+NOTEPAD.EXE (5196)
+    path: C:\Windows\system32\NOTEPAD.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Notepad
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+fdm.exe (7300)
+    path: C:\Program Files\Free Download Manager\fdm.exe
+    company:  FreeDownloadManager.ORG
+    product:  Free Download Manager
+    filedesc: Free Download Manager
+    filever:  3.9.1360.0
+    prodver:  3.9.1360.0
+SnippingTool.exe (4528)
+    path: C:\Windows\system32\SnippingTool.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Snipping Tool
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+iexplore.exe (8028)
+    path: C:\Program Files\Internet Explorer\iexplore.exe
+    company:  Microsoft Corporation
+    product:  Internet Explorer
+    filedesc: Internet Explorer
+    filever:  11.0.9600.16518
+    prodver:  11.0.9600.16518
+iexplore.exe (5652)
+    path: C:\Program Files\Internet Explorer\iexplore.exe
+    company:  Microsoft Corporation
+    product:  Internet Explorer
+    filedesc: Internet Explorer
+    filever:  11.0.9600.16518
+    prodver:  11.0.9600.16518
+MonoDevelop.exe (6588)
+    path: C:\Program Files\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+UnityBugReporter.exe (5956)
+    path: C:\Program Files\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.3.4.31067
+    prodver:  4.3.4.31067

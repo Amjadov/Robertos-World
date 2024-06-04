@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 981d111792bf54648996ff6a4a0c2a95
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Mobile Game GUI_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5096
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5134
+        width: 237
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 5056
+        width: 237
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4985
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4983
+        width: 239
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4895
+        width: 210
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4904
+        width: 198
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4804
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4793
+        width: 219
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4712
+        width: 218
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4717
+        width: 235
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4636
+        width: 230
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4496
+        width: 667
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4409
+        width: 490
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 4398
+        width: 134
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4214
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4214
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4214
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4214
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4214
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4217
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3893
+        width: 69
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4107
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4107
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4107
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4107
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4107
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3894
+        width: 69
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3999
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3999
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3999
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_31
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3999
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3999
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3894
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3894
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3894
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3894
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3894
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3310
+        width: 657
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2651
+        width: 481
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2345
+        width: 361
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2065
+        width: 392
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1138
+        width: 588
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Mobile Game GUI_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 215
+        width: 589
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

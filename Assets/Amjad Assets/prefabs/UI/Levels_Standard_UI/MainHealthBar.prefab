@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 131: {fileID: 13100000}
+  - 114: {fileID: 11400000}
+  - 114: {fileID: 11400002}
+  m_Layer: 0
+  m_Name: MainHealthBar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .0799999982, y: .900001526, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82d22fb076c92bc4499b87d7b205503c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textures:
+  - {fileID: 2800000, guid: d564e9fd9cb4c2b42805908c0aa105e3, type: 3}
+  - {fileID: 2800000, guid: b287013b601857044adacf08be45fd4d, type: 3}
+  - {fileID: 2800000, guid: e4decf9efafa15d48b404d1fcc9dfc66, type: 3}
+  - {fileID: 2800000, guid: fc612c0c4fd05c045ba83db80d421194, type: 3}
+  - {fileID: 2800000, guid: 519d870ac4a0c0b49a0377733c4db757, type: 3}
+  - {fileID: 2800000, guid: d780d5234fd786b41ab1224bdf609f76, type: 3}
+  - {fileID: 2800000, guid: ee1ceaa14ede481448a64478b5861f1e, type: 3}
+  - {fileID: 2800000, guid: de396b40d7ae13d49a794b5fee794b13, type: 3}
+  - {fileID: 2800000, guid: 7e5444ca524be6f4793e14d792347e80, type: 3}
+  - {fileID: 2800000, guid: 422b8b044b811f84c97be439aaa6d9e8, type: 3}
+  - {fileID: 2800000, guid: eee14e5ce5e58b94ab31a1d888721dc9, type: 3}
+  NewTexture: {fileID: 2800000, guid: eee14e5ce5e58b94ab31a1d888721dc9, type: 3}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a1b982f91068604392504ebee1919dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpaceFromRight: 0
+  SpaceFromTop: 0
+--- !u!131 &13100000
+GUITexture:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_Texture: {fileID: 2800000, guid: eee14e5ce5e58b94ab31a1d888721dc9, type: 3}
+  m_Color: {r: .5, g: .5, b: .5, a: .5}
+  m_PixelInset:
+    serializedVersion: 2
+    x: 12.2299995
+    y: -23.5
+    width: 220
+    height: 40
+  m_LeftBorder: 0
+  m_RightBorder: 0
+  m_TopBorder: 0
+  m_BottomBorder: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

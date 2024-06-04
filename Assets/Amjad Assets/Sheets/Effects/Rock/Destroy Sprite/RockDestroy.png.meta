@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 8c0886c184291ed4f84675a845c4addb
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: RockDestroy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 900
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 857
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 630
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 330
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 396
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 512
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: RockDestroy_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 443
+        width: 108
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
